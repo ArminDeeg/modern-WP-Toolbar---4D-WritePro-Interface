@@ -15,7 +15,7 @@
 WP Toolbar as a timesaver, here is my 4D Write Pro Toolbar, based on the original source from 4D (https://github.com/4d/4D-WritePro-Interface)
 
 ![tv1](https://user-images.githubusercontent.com/6436037/188858113-04efc91c-a95d-4947-b945-33cf14827506.png)
-![tb2](https://user-images.githubusercontent.com/6436037/188858135-8a0e67d2-7fa7-4bd1-96c9-a62b44dd9249.png)
+<img width="1057" alt="Bildschirmfoto 2022-09-07 um 13 12 31" src="https://user-images.githubusercontent.com/6436037/188864848-b28a4df5-8c9e-4fa6-ac45-ea076cf8fe5c.png">
 ![tb3](https://user-images.githubusercontent.com/6436037/188858156-bf668a3b-14e1-4f95-91ff-ce4058a6aab2.png)
 
 
