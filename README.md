@@ -56,3 +56,4 @@ A 4D developer can easily implement these palettes in his application. Thus the 
 
 For more details, read the 4D WritePro Interface documentation (https://doc.4d.com/4Dv18/4D/18/Entry-areas.300-4575458.en.html#4607368) and the 4D Blog (https://blog.4d.com/?s=Write+Pro)
 
+Documentation to compile a component for 4D: (https://developer.4d.com/docs/en/Desktop/building.html#build-component)
