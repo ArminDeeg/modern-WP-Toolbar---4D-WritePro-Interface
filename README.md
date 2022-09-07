@@ -12,7 +12,7 @@
 • 4D v19r5
 
 
-WP Toolbar as a timesaver, here is my 4D Write Pro Toolbar (based on the original source from 4D https://github.com/4d/4D-WritePro-Interface)
+WP Toolbar as a timesaver, here is my 4D Write Pro Toolbar, based on the original source from 4D (https://github.com/4d/4D-WritePro-Interface)
 
 ![tv1](https://user-images.githubusercontent.com/6436037/188858113-04efc91c-a95d-4947-b945-33cf14827506.png)
 ![tb2](https://user-images.githubusercontent.com/6436037/188858135-8a0e67d2-7fa7-4bd1-96c9-a62b44dd9249.png)
