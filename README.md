@@ -54,5 +54,5 @@ default 4D WP Toolbar:
 
 A 4D developer can easily implement these palettes in his application. Thus the end user can handle all 4D Write Pro properties such as: fonts, text alignment, bookmarks, table layout, frames, ...
 
-For more details, read the 4D WritePro Interface documentation (https://doc.4d.com/4Dv18/4D/18/Entry-areas.300-4575458.en.html#4607368)
+For more details, read the 4D WritePro Interface documentation (https://doc.4d.com/4Dv18/4D/18/Entry-areas.300-4575458.en.html#4607368) and the 4D Blog (https://blog.4d.com/?s=Write+Pro)
 
