@@ -5,11 +5,11 @@
 
 **See releases on the right side to download the specific version matching to** 
 
-• 4D v18r3
+• 4D v18r3 = v19.x
 
 • 4D v19r3
 
-• 4D v19r5
+• 4D v19r5 = v20.x
 
 
 WP Toolbar as a timesaver, here is my 4D Write Pro Toolbar, based on the original source from 4D (https://github.com/4d/4D-WritePro-Interface)
