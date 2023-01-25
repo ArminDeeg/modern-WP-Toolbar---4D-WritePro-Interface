@@ -32,7 +32,7 @@ v18r3+ =v19.x:
 
 
 **Changes:**
-
+ 
     • arrangement of the icons according to my needs
     • remove the light blue toolbar style
     • font PopUp as hierarchic PopUp
