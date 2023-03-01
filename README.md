@@ -28,7 +28,6 @@ v19r3+:
 <img width="1030" alt="Toolbar v19r3 blue" src="https://user-images.githubusercontent.com/6436037/188858113-04efc91c-a95d-4947-b945-33cf14827506.png">
 
 v18r3+ =v19.x:
-![tb3](https://user-images.githubusercontent.com/6436037/188858156-bf668a3b-14e1-4f95-91ff-ce4058a6aab2.png)
 <img width="1030" alt="Toolbar v18r3 red" src="https://user-images.githubusercontent.com/6436037/188858156-bf668a3b-14e1-4f95-91ff-ce4058a6aab2.png">
 
 **Changes:**
