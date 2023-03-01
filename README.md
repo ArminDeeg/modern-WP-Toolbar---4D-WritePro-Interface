@@ -58,6 +58,7 @@ Extended table formatting commands:
 <img width="744" alt="Bildschirmfoto 2023-01-25 um 15 34 16" src="https://user-images.githubusercontent.com/6436037/214591179-d15b919a-6b5f-4ada-87f4-9e4a29ce2b26.png">
 
 Hierarchic font popup menu:
+
 ![4](https://user-images.githubusercontent.com/6436037/188858034-141812b8-da2d-48f3-b522-299257a835cb.png)
 
 default 4D WP Toolbar:
