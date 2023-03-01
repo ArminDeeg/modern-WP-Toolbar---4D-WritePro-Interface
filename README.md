@@ -14,7 +14,7 @@
 • 4D v19r8 = v20.x
 
 
-WP Toolbar as a timesaver, here is my 4D Write Pro Toolbar, based on the original source from 4D (https://github.com/4d/4D-WritePro-Interface)
+WP Toolbar as a timesaver, here is my modern interpretation of the 4D Write Pro Toolbar, based on the original source from 4D (https://github.com/4d/4D-WritePro-Interface)
 
 v19r8+ = v20:
 <img width="1030" alt="Toolbar v19r8 blue" src="https://user-images.githubusercontent.com/6436037/214587622-d376cc95-5657-49cd-af8a-da21eeae79c9.png">
