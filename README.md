@@ -25,13 +25,11 @@ v19r5+:
 <img width="1030" alt="Toolbar v19r5 green" src="https://user-images.githubusercontent.com/6436037/188864848-b28a4df5-8c9e-4fa6-ac45-ea076cf8fe5c.png">
 
 v19r3+:
-![tv1](https://user-images.githubusercontent.com/6436037/188858113-04efc91c-a95d-4947-b945-33cf14827506.png)
 <img width="1030" alt="Toolbar v19r3 blue" src="https://user-images.githubusercontent.com/6436037/188858113-04efc91c-a95d-4947-b945-33cf14827506.png">
 
 v18r3+ =v19.x:
-
 ![tb3](https://user-images.githubusercontent.com/6436037/188858156-bf668a3b-14e1-4f95-91ff-ce4058a6aab2.png)
-
+<img width="1030" alt="Toolbar v18r3 red" src="https://user-images.githubusercontent.com/6436037/188858156-bf668a3b-14e1-4f95-91ff-ce4058a6aab2.png">
 
 **Changes:**
  
