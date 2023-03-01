@@ -76,7 +76,8 @@ Documentation to compile a component for 4D: (https://developer.4d.com/docs/en/D
 ## How to use the new modern WP Toolbar in your 4D database or project
 
 
-    Please note v19rXX versions do not match v19.XX 4D versions. If you are using v19.5, then you need to download the latest v18rxx version from me.
+    Please note v19rXX versions do not match v19.XX 4D versions. If you are using v19.5, 
+    then you need to download the latest v18rxx version from me.
     A Github account is not necessary.
 
 1. Download from **Releases** my WP Toolbar Source for your matching 4D v19 version.
