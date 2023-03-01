@@ -51,7 +51,7 @@ Then you have to compile the source again and build as component
 **To test my source, just run this sample form:**
 
 ![2](https://user-images.githubusercontent.com/6436037/188857922-9e63a460-b2e5-4fcd-a472-03d7b43caa58.png)
-
+<img width="550" alt="4D test form" src="https://user-images.githubusercontent.com/6436037/188857922-9e63a460-b2e5-4fcd-a472-03d7b43caa58.png">
 Screenshots:
 
 <img width="744" alt="Bildschirmfoto 2023-01-25 um 15 34 16" src="https://user-images.githubusercontent.com/6436037/214591179-d15b919a-6b5f-4ada-87f4-9e4a29ce2b26.png">
