@@ -50,12 +50,14 @@ Then you have to compile the source again and build as component
 
 **To test my source, just run this sample form:**
 
-![2](https://user-images.githubusercontent.com/6436037/188857922-9e63a460-b2e5-4fcd-a472-03d7b43caa58.png)
 <img width="550" alt="4D test form" src="https://user-images.githubusercontent.com/6436037/188857922-9e63a460-b2e5-4fcd-a472-03d7b43caa58.png">
-Screenshots:
 
+**Screenshots:**
+
+Extended table formatting commands:
 <img width="744" alt="Bildschirmfoto 2023-01-25 um 15 34 16" src="https://user-images.githubusercontent.com/6436037/214591179-d15b919a-6b5f-4ada-87f4-9e4a29ce2b26.png">
 
+Hierarchic font popup menu:
 ![4](https://user-images.githubusercontent.com/6436037/188858034-141812b8-da2d-48f3-b522-299257a835cb.png)
 
 default 4D WP Toolbar:
@@ -68,3 +70,21 @@ A 4D developer can easily implement these palettes in his application. Thus the 
 For more details, read the 4D WritePro Interface documentation (https://doc.4d.com/4Dv18/4D/18/Entry-areas.300-4575458.en.html#4607368) and the 4D Blog (https://blog.4d.com/?s=Write+Pro)
 
 Documentation to compile a component for 4D: (https://developer.4d.com/docs/en/Desktop/building.html#build-component)
+
+
+## How to use the new modern WP Toolbar in your 4D database or project
+
+
+    download from my github the correct version.
+
+But please note v19rXX versions do not match v19.XX 4D versions. If you are using v19.5, then you need to download the latest v18rxx version from me.
+A Github account is not necessary
+
+1. open my WP Toolbar Source with the matching 4D v19 version.
+
+2. compile the source
+Bildschirmfoto 2023-03-01 um 15.13.10
+
+3. create a component from the source
+   a) Name the component as you like, for example like this
+   b) Create the component
