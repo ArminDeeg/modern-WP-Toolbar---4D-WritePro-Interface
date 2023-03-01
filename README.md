@@ -26,7 +26,7 @@ v19r5+:
 
 v19r3+:
 ![tv1](https://user-images.githubusercontent.com/6436037/188858113-04efc91c-a95d-4947-b945-33cf14827506.png)
-<img width="1030" alt="Toolbar v19r3 blue" src="https://user-images.githubusercontent.com/6436037/188864848-b28a4df5-8c9e-4fa6-ac45-ea076cf8fe5c.png">
+<img width="1030" alt="Toolbar v19r3 blue" src="https://user-images.githubusercontent.com/6436037/188858113-04efc91c-a95d-4947-b945-33cf14827506.png">
 
 v18r3+ =v19.x:
 
