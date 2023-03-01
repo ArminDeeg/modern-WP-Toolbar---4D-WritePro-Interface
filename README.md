@@ -106,7 +106,7 @@ Documentation to compile a component for 4D: (https://developer.4d.com/docs/en/D
  <img width="466" alt="Bildschirmfoto 2023-03-01 um 20 09 14" src="https://user-images.githubusercontent.com/6436037/222240210-edc9c145-6228-4333-b79a-9cada67309ba.png">
 
  
-6. Open you 4D project or binary database in source mode
+6. Open your 4D project or binary database in source mode
 
 7. Open the desired form where the WParea widget with the WP Toolbar is located.
 (You can create preconfigured 4D Write Pro areas using the 4D Write Pro objects found in the Object library)
