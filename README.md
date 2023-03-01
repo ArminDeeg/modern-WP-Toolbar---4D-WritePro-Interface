@@ -75,16 +75,43 @@ Documentation to compile a component for 4D: (https://developer.4d.com/docs/en/D
 ## How to use the new modern WP Toolbar in your 4D database or project
 
 
-    download from my github the correct version.
+    Please note v19rXX versions do not match v19.XX 4D versions. If you are using v19.5, then you need to download the latest v18rxx version from me.
+    A Github account is not necessary.
 
-But please note v19rXX versions do not match v19.XX 4D versions. If you are using v19.5, then you need to download the latest v18rxx version from me.
-A Github account is not necessary
+1. Download from **Releases** my WP Toolbar Source for your matching 4D v19 version.
+ 
+   • https://github.com/ArminDeeg/modern-WP-Toolbar---4D-WritePro-Interface/releases
 
-1. open my WP Toolbar Source with the matching 4D v19 version.
+2. Open the **modern 4DWritePro Toolbar.4DProject** project file 
 
-2. compile the source
-Bildschirmfoto 2023-03-01 um 15.13.10
+3. Compile the source
 
-3. create a component from the source
-   a) Name the component as you like, for example like this
-   b) Create the component
+<img width="224" alt="compiler" src="https://user-images.githubusercontent.com/6436037/222237569-f8a9c654-e9b8-4d5c-8f44-215d91422d88.png">
+
+
+4. Create the component from the project source: open **Build Application**... command in the **Design** menu of 4D
+
+<img width="295" alt="Build Application" src="https://user-images.githubusercontent.com/6436037/222238022-7ee9ed41-6cae-4d0b-9357-eb19b2e558f3.png">
+
+   
+   -a) Name the component as you like, for example like this
+   
+   -b) Create the component
+   
+   <img width="839" alt="create component" src="https://user-images.githubusercontent.com/6436037/222238778-58aa7417-8681-4022-8e4d-ee5234153dd6.png">
+
+5. Copy the created component into your active “Components” folder
+ <img width="816" alt="copy component" src="https://user-images.githubusercontent.com/6436037/222239975-6cec0b70-c287-4c05-886d-2efff5db1aeb.png">
+ 
+ <img width="466" alt="Bildschirmfoto 2023-03-01 um 20 09 14" src="https://user-images.githubusercontent.com/6436037/222240210-edc9c145-6228-4333-b79a-9cada67309ba.png">
+
+ 
+6. Open you 4D project or binary database in source mode
+
+7. Open the desired form where the WParea widget with the WP Toolbar is located.
+(You can create preconfigured 4D Write Pro areas using the 4D Write Pro objects found in the Object library)
+
+8. Select the 4D Write Pro Toolbar widget and assign the WP_Toolbar (modern WritePro Toolbar) as input form
+<img width="1129" alt="Bildschirmfoto 2023-03-01 um 20 16 13" src="https://user-images.githubusercontent.com/6436037/222242385-c31d4715-3d24-45e3-a256-99c6ecec4377.png">
+
+Thats it
