@@ -113,7 +113,15 @@ Documentation to compile a component for 4D: (https://developer.4d.com/docs/en/D
 7. Open the desired form where the WParea widget with the WP Toolbar is located.
 (You can create preconfigured 4D Write Pro areas using the 4D Write Pro objects found in the Object library)
 
-8. Select the 4D Write Pro Toolbar widget and assign the WP_Toolbar (modern WritePro Toolbar) as input form
-<img width="1129" alt="Bildschirmfoto 2023-03-01 um 20 16 13" src="https://user-images.githubusercontent.com/6436037/222242385-c31d4715-3d24-45e3-a256-99c6ecec4377.png">
+<img width="515" alt="WPwidget" src="https://user-images.githubusercontent.com/6436037/224719440-c01f8690-b1a8-4d8d-bf12-c995ae8297a7.png">
+
+8. Select the 4D Write Pro Toolbar widget and assign the **WPmodern_Toolbar** (modern WritePro Toolbar) as input form
+
+<img width="956" alt="WPtoolbarform" src="https://user-images.githubusercontent.com/6436037/224718949-a05e6408-cac4-427f-b189-13c86f4e61a0.png">
+
+9. Change the **WP UpdateWidget** method to  **WPmodern UpdateWidget** 
+
+<img width="438" alt="WPareamethod" src="https://user-images.githubusercontent.com/6436037/224719343-79b4a7c0-fca2-4440-97d2-bf5b77025d6d.png">
+
 
 Thats it
