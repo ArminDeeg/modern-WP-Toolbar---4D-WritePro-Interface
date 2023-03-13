@@ -9,7 +9,7 @@
 
 • 4D v19r3
 
-• 4D v19r5 = v20.x
+• 4D v19r5
 
 • 4D v19r8 = v20.x
 
@@ -21,7 +21,7 @@ v19r8+ = v20:
 
 <img width="1030" alt="Toolbar v19r8 green" src="https://user-images.githubusercontent.com/6436037/214587649-e15833a6-38cf-416f-a78b-f03672439127.png">
 
-v19r5+:
+v19r5:
 <img width="1030" alt="Toolbar v19r5 green" src="https://user-images.githubusercontent.com/6436037/188864848-b28a4df5-8c9e-4fa6-ac45-ea076cf8fe5c.png">
 
 v19r3+:
