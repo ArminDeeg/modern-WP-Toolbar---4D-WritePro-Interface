@@ -119,7 +119,7 @@ Documentation to compile a component for 4D: (https://developer.4d.com/docs/en/D
 
 <img width="956" alt="WPtoolbarform" src="https://user-images.githubusercontent.com/6436037/224718949-a05e6408-cac4-427f-b189-13c86f4e61a0.png">
 
-9. Change the **WP UpdateWidget** method to  **WPmodern UpdateWidget** 
+9. Change the **WP UpdateWidget** method (inside WParea) to  **WPmodern UpdateWidget** 
 
 <img width="438" alt="WPareamethod" src="https://user-images.githubusercontent.com/6436037/224719343-79b4a7c0-fca2-4440-97d2-bf5b77025d6d.png">
 
