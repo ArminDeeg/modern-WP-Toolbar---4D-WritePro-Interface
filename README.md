@@ -96,9 +96,9 @@ Documentation to compile a component for 4D: (https://developer.4d.com/docs/en/D
 <img width="295" alt="Build Application" src="https://user-images.githubusercontent.com/6436037/222238022-7ee9ed41-6cae-4d0b-9357-eb19b2e558f3.png">
 
    
-   -a) Name the component as you like, for example like this
+   a) Name the component as you like, for example like this
    
-   -b) Create the component
+   b) Create the component
    
    <img width="839" alt="create component" src="https://user-images.githubusercontent.com/6436037/222238778-58aa7417-8681-4022-8e4d-ee5234153dd6.png">
 
